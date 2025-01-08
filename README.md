@@ -1,3 +1,3 @@
 This project was part of a Diploma in Industrial Studies dissertation on Leveraging Temporal Coherence to Streamline 3D reconstruction, with the aim of quantitatively assessing the impact of exploiting temporal coherence among video frames, when utilised as an ordered input dataset, for the purpose of reconstructing a partial three-dimensional model from two-dimensional images. The research entails a stage-wise temporal analysis of various feature matching techniques, encompassing exhaustive, sequential, and transitive matching, among others. The main objective is to streamline the procedures involved in 3D reconstruction for generating partial meshes by eliminating redundant steps typically required when dealing with unordered datasets.
 
-View the full paper here: https://drive.google.com/file/d/1PrjBkRPqPkCk17JV0SZfnfvxNnartGk9/view?usp=sharing
+View the full paper on my website: https://raunakhede.com/leveraging-temporal-coherence-to-streamline-3d-reconstruction/
